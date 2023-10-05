@@ -16,7 +16,7 @@ Siga estas etapas para configurar o projeto:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto-cypress](https://github.com/fschmidt7/desafio-ene.git
+   git clone https://github.com/fschmidt7/desafio-ene.git
 
 2. Navegue até o diretório do projeto:
 
