@@ -20,7 +20,7 @@ Siga estas etapas para configurar o projeto:
 
 2. Navegue até o diretório do projeto:
 
-cd seu-projeto-cypress
+cd desafio-ene/5-automation
 
 3.Instale as dependências do Cypress:
 
